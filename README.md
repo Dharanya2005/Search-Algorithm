@@ -100,23 +100,23 @@ else:
 ## Sample Input and Output
 
 i)
-![Alt text](image-4.png)
+![image](https://github.com/Dharanya2005/Search-Algorithm/assets/145742468/3a9289d0-4356-4863-9503-2938fe27ff13)
 
 ii)
-![Alt text](image-2.png)
+![image](https://github.com/Dharanya2005/Search-Algorithm/assets/145742468/fcb85c3b-5538-49b9-a5b3-2e8eb2faaeae)
 
 iii)
-![Alt text](image-5.png)
+![image](https://github.com/Dharanya2005/Search-Algorithm/assets/145742468/209778c7-c6c1-41e7-b963-df3f878952f0)
 
 ## OUTPUT
 i)
-![Alt text](image-7.png)
+![image](https://github.com/Dharanya2005/Search-Algorithm/assets/145742468/072e6597-fa7b-46bd-b561-f0823aa04094)
 
 ii)
-![Alt text](image-8.png)
+![image](https://github.com/Dharanya2005/Search-Algorithm/assets/145742468/b3e422ac-b5f8-4850-98d2-144837f10c73)
 
 iii)
-![Alt text](image-9.png)
+![image](https://github.com/Dharanya2005/Search-Algorithm/assets/145742468/14bb73da-59b6-430d-bac0-4784f66df0db)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
